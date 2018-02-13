@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "NetExtensions", "NetExtensions\NetExtensions.shproj", "{36274CF7-0EF8-4B74-9797-52B0695D9EAB}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		NetExtensions\NetExtensions.projitems*{36274cf7-0ef8-4b74-9797-52b0695d9eab}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E21F6E70-DB01-4D9C-9E6C-42B31055A08E}
+	EndGlobalSection
+EndGlobal
